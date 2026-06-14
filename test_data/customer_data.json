@@ -1,0 +1,13 @@
+{
+  "valid_customer": {
+    "name": "Rutuja Test",
+    "dob": "01011995",
+    "address": "Pune Maharashtra",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pin": "411001",
+    "mobile": "9373424819",
+    "email": "rutujatest667788@mailinator.com",
+    "password": "Test@1234"
+  }
+}
