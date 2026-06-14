@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+reports/
+test_data/dynamic_data.json
+.DS_Store
